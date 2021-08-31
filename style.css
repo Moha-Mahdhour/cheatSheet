@@ -15,12 +15,13 @@ body {
 table {
   font-size: 25px;
   border-collapse: collapse;
-  width: 650px;
+  width: 800px;
   font-weight: bold;
   margin: 0 auto;
 }
 td {
   text-align: center;
+  padding: 20px;
 }
 
 tabel,
